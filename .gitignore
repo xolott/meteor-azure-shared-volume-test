@@ -1,0 +1,6 @@
+node_modules/
+temp/
+dev.json
+build/
+.cache/
+.idea/
